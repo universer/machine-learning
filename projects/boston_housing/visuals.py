@@ -106,7 +106,7 @@ def ModelComplexity(X, y):
 
 
 def PredictTrials(X, y, fitter, data):
-    """ Performs trials of fitting and predicting data. """
+    """ Performs trials of fitting and predicting data."""
 
     # Store the predicted prices
     prices = []
